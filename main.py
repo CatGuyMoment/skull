@@ -4,7 +4,7 @@ import os
 
 
 
-token = "MTAzNDg2MTE1OTE3OTg5ODkyMA.G9tuqN.Of0Tm6sDHA_tDjgrMn0G1FIK49N2AjRTuiTvKU"
+token = input("give token")
 client = commands.Bot(command_prefix="",intents=discord.Intents.all())
 cringelist = {"fuck","shit","heil","cum","sex","amogus","sus","<@723575757527449661>","hitler","kill","🖕","💀","@everyone","balls","baller","stop","wtf","daddy","die","death","dead"}
 @client.event
